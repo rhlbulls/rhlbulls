@@ -20,5 +20,3 @@
 <a href="https://www.hackerrank.com/rahulbulls12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rahulbulls12" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/being_savage123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="being_savage123" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsavage12&show_icons=true&locale=en&layout=compact" alt="rahulsavage12" /></p>
